@@ -8,3 +8,8 @@ These include:
 - tag photos with google location API
 - backup to cloud server (AWS)
 - backup to physical media (DVD Burning)
+
+Dependencies:
+
+[exifread](https://github.com/ianare/exif-py)
+available via `pip install ExifRead`
